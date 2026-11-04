@@ -144,7 +144,7 @@ for i in range(1,10,2):
 i = 1
 while i<=5:
  print(i)
-i=i+i
+ i=i+1
  
 
 
