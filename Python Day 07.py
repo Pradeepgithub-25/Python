@@ -79,3 +79,10 @@ Name = "Pradeep", "Kumar"
 rejoin = "-".join(Name)
 
 print(rejoin)
+
+
+name = "Pradeep kumar"
+place = "Tirupur"
+Dept = "IT"
+
+print(f"My name is:{name}.I am from {place}. My department is {Dept}")
